@@ -31,6 +31,9 @@ htmlcov/
 .env
 .env.*
 *.local
+TECH_SPEC.md
+ENGINEERING_RULES.md
+TODO.md
 
 # IDE/editor
 .idea/
@@ -39,4 +42,3 @@ htmlcov/
 # OS files
 .DS_Store
 Thumbs.db
-
